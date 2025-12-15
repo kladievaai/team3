@@ -1,0 +1,123 @@
+# Файл с курсами валют
+comment: "Ежедневные курсы валют USD и CNY за период с 01.10.2023 по 20.10.2023"
+
+currencies:
+  - currency: "USD"
+    buy_price: 96.50
+    sell_price: 98.20
+    date: "2023-10-01"
+    commission: 1.5
+
+  - currency: "CNY"
+    buy_price: 13.15
+    sell_price: 13.45
+    date: "2023-10-01"
+    commission: 2.0
+
+  - currency: "USD"
+    buy_price: 96.60
+    sell_price: 98.30
+    date: "2023-10-02"
+    commission: 1.5
+
+  - currency: "CNY"
+    buy_price: 13.20
+    sell_price: 13.50
+    date: "2023-10-02"
+    commission: 2.0
+
+  - currency: "USD"
+    buy_price: 96.70
+    sell_price: 98.40
+    date: "2023-10-03"
+    commission: 1.5
+
+  - currency: "CNY"
+    buy_price: 13.18
+    sell_price: 13.48
+    date: "2023-10-03"
+    commission: 2.0
+
+  - currency: "USD"
+    buy_price: 96.80
+    sell_price: 98.50
+    date: "2023-10-04"
+    commission: 1.5
+
+  - currency: "CNY"
+    buy_price: 13.22
+    sell_price: 13.52
+    date: "2023-10-04"
+    commission: 2.0
+
+  - currency: "USD"
+    buy_price: 96.90
+    sell_price: 98.60
+    date: "2023-10-05"
+    commission: 1.5
+
+  - currency: "CNY"
+    buy_price: 13.25
+    sell_price: 13.55
+    date: "2023-10-05"
+    commission: 2.0
+
+  - currency: "USD"
+    buy_price: 97.00
+    sell_price: 98.70
+    date: "2023-10-06"
+    commission: 1.5
+
+  - currency: "CNY"
+    buy_price: 13.28
+    sell_price: 13.58
+    date: "2023-10-06"
+    commission: 2.0
+
+  - currency: "USD"
+    buy_price: 97.10
+    sell_price: 98.80
+    date: "2023-10-07"
+    commission: 1.5
+
+  - currency: "CNY"
+    buy_price: 13.30
+    sell_price: 13.60
+    date: "2023-10-07"
+    commission: 2.0
+
+  - currency: "USD"
+    buy_price: 97.20
+    sell_price: 98.90
+    date: "2023-10-08"
+    commission: 1.5
+
+  - currency: "CNY"
+    buy_price: 13.32
+    sell_price: 13.62
+    date: "2023-10-08"
+    commission: 2.0
+
+  - currency: "USD"
+    buy_price: 97.30
+    sell_price: 99.00
+    date: "2023-10-09"
+    commission: 1.5
+
+  - currency: "CNY"
+    buy_price: 13.35
+    sell_price: 13.65
+    date: "2023-10-09"
+    commission: 2.0
+
+  - currency: "USD"
+    buy_price: 97.40
+    sell_price: 99.10
+    date: "2023-10-10"
+    commission: 1.5
+
+  - currency: "CNY"
+    buy_price: 13.38
+    sell_price: 13.68
+    date: "2023-10-10"
+    commission: 2.0
