@@ -1,0 +1,124 @@
+# Курсы валют USD/CNY банков РФ: покупка/продажа в RUB, комиссии %
+# Данные на 13-15 декабря 2025. 
+# 12 записей USD, 8 записей CNY. Источник: banki.ru, ЦБ РФ
+
+rates:
+  - currency: "Доллар США"
+    buy_price: 78.66
+    sell_price: 84.47
+    date: "2025-12-15"
+    commission: 2.0
+    
+  - currency: "Доллар США"
+    buy_price: 79.30
+    sell_price: 85.62
+    date: "2025-12-15"
+    commission: 1.0
+    
+  - currency: "Доллар США"
+    buy_price: 80.35
+    sell_price: 84.72
+    date: "2025-12-15"
+    commission: 1.5
+    
+  - currency: "Доллар США"
+    buy_price: 78.63
+    sell_price: 85.38
+    date: "2025-12-14"
+    commission: 0.0
+    
+  - currency: "Доллар США"
+    buy_price: 79.57
+    sell_price: 84.10
+    date: "2025-12-14"
+    commission: 1.0
+    
+  - currency: "Доллар США"
+    buy_price: 79.18
+    sell_price: 84.61
+    date: "2025-12-13"
+    commission: 0.5
+    
+  - currency: "Доллар США"
+    buy_price: 79.66
+    sell_price: 84.54
+    date: "2025-12-13"
+    commission: 0.0
+    
+  - currency: "Доллар США"
+    buy_price: 80.31
+    sell_price: 85.12
+    date: "2025-12-15"
+    commission: 0.0
+    
+  - currency: "Доллар США"
+    buy_price: 79.15
+    sell_price: 85.49
+    date: "2025-12-14"
+    commission: 1.0
+    
+  - currency: "Доллар США"
+    buy_price: 78.61
+    sell_price: 85.67
+    date: "2025-12-13"
+    commission: 0.5
+    
+  - currency: "Доллар США"
+    buy_price: 79.91
+    sell_price: 84.20
+    date: "2025-12-15"
+    commission: 1.5
+    
+  - currency: "Доллар США"
+    buy_price: 80.71
+    sell_price: 84.76
+    date: "2025-12-14"
+    commission: 2.0
+    
+  - currency: "Китайский юань"
+    buy_price: 11.1959
+    sell_price: 11.7445
+    date: "2025-12-15"
+    commission: 0.0
+    
+  - currency: "Китайский юань"
+    buy_price: 11.1758
+    sell_price: 11.7675
+    date: "2025-12-15"
+    commission: 1.0
+    
+  - currency: "Китайский юань"
+    buy_price: 11.0513
+    sell_price: 11.7739
+    date: "2025-12-14"
+    commission: 0.0
+    
+  - currency: "Китайский юань"
+    buy_price: 11.2965
+    sell_price: 11.7800
+    date: "2025-12-14"
+    commission: 2.0
+    
+  - currency: "Китайский юань"
+    buy_price: 11.1200
+    sell_price: 11.6500
+    date: "2025-12-13"
+    commission: 0.5
+    
+  - currency: "Китайский юань"
+    buy_price: 11.0800
+    sell_price: 11.7200
+    date: "2025-12-13"
+    commission: 1.0
+    
+  - currency: "Китайский юань"
+    buy_price: 11.2500
+    sell_price: 11.8100
+    date: "2025-12-15"
+    commission: 1.5
+    
+  - currency: "Китайский юань"
+    buy_price: 11.1400
+    sell_price: 11.6900
+    date: "2025-12-14"
+    commission: 0.0
