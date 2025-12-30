@@ -1,0 +1,65 @@
+exchange rate: 11, 0501
+currency: CNY
+buy_price: 11,51
+sell_price: 11,46
+date: 2025-12-30
+bank: Камкомбанк
+commission: 0,44
+comment: лучший баланс курса и комиссии
+
+currency: CNY
+buy_price: 11,88
+sell_price: 11,88
+date: 2025-12-30
+bank: Т-банк
+commission: 0,00
+comment: завышенный курс
+
+currency: CNY
+buy_price: 11,50
+sell_price: 11,25
+date: 2025-12-30
+bank: Банк Приморье
+commission: 2,22
+
+currency: CNY
+buy_price: 11,70
+sell_price: 11,21
+date: 2025-12-30
+bank: Экспобанк
+commission: 4,37
+comment: самый невыгодный
+
+exchange rate: 77,4466
+currency: USD
+buy_price: 79,71
+sell_price: 79,66
+date: 2025-12-30
+bank: Камкомбанк
+commission: 0,06
+comment: лучший по спреду
+
+currency: USD
+buy_price: 78,50
+sell_price: 77
+date: 2025-12-30
+bank: Альфа-Банк
+commission: 1,95
+
+currency: USD
+buy_price: 78,40
+sell_price: 78,20
+date: 2025-12-30
+bank: Банк Приморье
+commission:  0,26
+comment: хорошая альтернатива
+
+currency: USD
+buy_price: 81,10
+sell_price: 77,60
+date: 2025-12-30
+bank: Экспобанк
+commission: 4,51
+comment: самый невыгодный
+
+
